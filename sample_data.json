@@ -1,0 +1,9 @@
+[
+  { "userId": "U1", "timestamp": ISODate("2025-05-27T09:00:00Z"), "workoutMinutes": 30 },
+  { "userId": "U2", "timestamp": ISODate("2025-05-28T07:15:00Z"), "workoutMinutes": 45 },
+  { "userId": "U3", "timestamp": ISODate("2025-05-29T10:00:00Z"), "workoutMinutes": 60 },
+  { "userId": "U4", "timestamp": ISODate("2025-05-30T18:45:00Z"), "workoutMinutes": 40 },
+  { "userId": "U5", "timestamp": ISODate("2025-06-01T08:30:00Z"), "workoutMinutes": 50 },
+  { "userId": "U6", "timestamp": ISODate("2025-06-02T11:15:00Z"), "workoutMinutes": 35 },
+  { "userId": "U7", "timestamp": ISODate("2025-06-03T07:00:00Z"), "workoutMinutes": 55 }
+]
